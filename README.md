@@ -232,7 +232,7 @@ The regulated outputs can be used to power low-voltage electronic circuits such 
 
 ## Project Files
 
-- [`schematic/`](schematic/) — Circuit schematic and individual regulator sections
+- [`schematic/`](Schematic/) — Circuit schematic and individual regulator sections
 - [`pcb/`](pcb/) — PCB layout, 3D view, and manufacturing files
-- [`source/easyeda/`](source/easyeda/) — Editable EasyEDA project files
+- [`source/easyeda/`](Source/easyeda/) — Editable EasyEDA project files
 - [`hardware/`](hardware/) — Fabricated PCB and testing images
