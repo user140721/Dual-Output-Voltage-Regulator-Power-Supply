@@ -161,7 +161,7 @@ The measured output voltages were close to their designed values, confirming pro
 ## Repository Structure
 
 ```text
-LM7805-LM317-Power-Supply/
+Dual-Output-Voltage-Regulator-Power-Supply/
 │
 ├── README.md
 │
@@ -175,7 +175,7 @@ LM7805-LM317-Power-Supply/
 ├── pcb/
 │   ├── pcb_2d_layout.png
 │   ├── pcb_3d_view.png
-│   └── gerber/
+│   └── Gerber/
 │       └── [Gerber and drill files]
 │
 ├── source/
@@ -183,7 +183,6 @@ LM7805-LM317-Power-Supply/
 │       └── [EasyEDA source files]
 │
 └── hardware/
-    ├── assembled_pcb.jpg
     └── output_measurement.jpg
 ```
 
