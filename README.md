@@ -79,9 +79,9 @@ An LED with a current-limiting resistor is also included as a power indicator.
 
 The complete circuit schematic was created using **EasyEDA**.
 
-![Complete Circuit Schematic](schematic/complete_schematic.png)
+![Complete Circuit Schematic](Schematic/complete_schematic.png)
 
-Individual sections of the circuit are also available in the [`schematic/`](schematic/) directory.
+Individual sections of the circuit are also available in the [`schematic/`](Schematic/) directory.
 
 ---
 
