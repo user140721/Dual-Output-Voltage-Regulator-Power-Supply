@@ -165,10 +165,11 @@ LM7805-LM317-Power-Supply/
 │
 ├── README.md
 │
-├── schematic/
+├── Schematic/
 │   ├── complete_schematic.png
 │   ├── lm7805_5v_section.png
 │   ├── lm317_3v3_section.png
+|   ├── Input_distribution.png
 │   └── output_distribution.png
 │
 ├── pcb/
